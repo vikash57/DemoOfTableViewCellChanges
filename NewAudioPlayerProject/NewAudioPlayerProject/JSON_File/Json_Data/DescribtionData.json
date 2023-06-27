@@ -1,0 +1,303 @@
+
+{
+    "PlayList":[
+        {
+            "titleName":"Hate Song",
+            "musicList":[
+        {
+            "isExpanded":false,
+            "titleName":"Lily Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic1",
+            "trackName":"song1"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Heart Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic2",
+            "trackName":"song2"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Hate Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic3",
+            "trackName":"song3"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Love Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic4",
+            "trackName":"song4"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Emotional Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic5",
+            "trackName":"song5"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Pressess Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic6",
+            "trackName":"song6"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Lovely Hated Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic7",
+            "trackName":"song7"
+        },
+        {
+            "isExpanded":false,
+            "titleName":"Hated Lovely Song",
+            "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+            "img":"pic8",
+            "trackName":"song8"
+        }]},
+        {
+            "titleName":"Love Song",
+            "musicList":[
+            {
+                "isExpanded":false,
+                "titleName":"Lily Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic1",
+                "trackName":"song1"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Heart Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic2",
+                "trackName":"song2"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hate Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic3",
+                "trackName":"song3"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Love Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic4",
+                "trackName":"song4"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Emotional Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic5",
+                "trackName":"song5"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Pressess Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic6",
+                "trackName":"song6"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Lovely Hated Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic7",
+                "trackName":"song7"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hated Lovely Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic8",
+                "trackName":"song8"
+            }]},
+        {
+            "titleName":"Most Liked Song",
+            "musicList":[
+            {
+                "isExpanded":false,
+                "titleName":"Lily Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic1",
+                "trackName":"song1"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Heart Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic2",
+                "trackName":"song2"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hate Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic3",
+                "trackName":"song3"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Love Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic4",
+                "trackName":"song4"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Emotional Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic5",
+                "trackName":"song5"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Pressess Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic6",
+                "trackName":"song6"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Lovely Hated Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic7",
+                "trackName":"song7"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hated Lovely Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic8",
+                "trackName":"song8"
+            }]},
+        {
+            "titleName":"Motivation Song",
+            "musicList":[
+            {
+                "isExpanded":false,
+                "titleName":"Lily Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic1",
+                "trackName":"song1"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Heart Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic2",
+                "trackName":"song2"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hate Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic3",
+                "trackName":"song3"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Love Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic4",
+                "trackName":"song4"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Emotional Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic5",
+                "trackName":"song5"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Pressess Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic6",
+                "trackName":"song6"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Lovely Hated Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic7",
+                "trackName":"song7"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hated Lovely Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic8",
+                "trackName":"song8"
+            }]},
+        {
+            "titleName":"Dipression Song",
+            "musicList":[
+            {
+                "isExpanded":false,
+                "titleName":"Lily Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic1",
+                "trackName":"song1"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Heart Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic2",
+                "trackName":"song2"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hate Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic3",
+                "trackName":"song3"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Love Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic4",
+                "trackName":"song4"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Emotional Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic5",
+                "trackName":"song5"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Pressess Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic6",
+                "trackName":"song6"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Lovely Hated Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic7",
+                "trackName":"song7"
+            },
+            {
+                "isExpanded":false,
+                "titleName":"Hated Lovely Song",
+                "describtion":"A song is a piece of music which contains lyrics and words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition",
+                "img":"pic8",
+                "trackName":"song8"
+            }]}
+        
+    ]
+}
+
+

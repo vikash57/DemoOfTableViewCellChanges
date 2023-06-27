@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lPf-su-ieM">
+                                <rect key="frame" x="0.0" y="59" width="393" height="793"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="lightBGimg" translatesAutoresizingMaskIntoConstraints="NO" id="9D7-Pf-k3T">
+                                        <rect key="frame" x="0.0" y="0.0" width="393" height="793"/>
+                                    </imageView>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zcc-nj-eXL">
+                                        <rect key="frame" x="56.666666666666657" y="256.66666666666669" width="280" height="280.00000000000006"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="musicImg" translatesAutoresizingMaskIntoConstraints="NO" id="cBV-T4-N7Z">
+                                                <rect key="frame" x="0.0" y="0.0" width="280" height="280"/>
+                                            </imageView>
+                                        </subviews>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="280" id="8Nw-So-RVT"/>
+                                            <constraint firstAttribute="bottom" secondItem="cBV-T4-N7Z" secondAttribute="bottom" id="CA1-DK-Ifg"/>
+                                            <constraint firstItem="cBV-T4-N7Z" firstAttribute="leading" secondItem="zcc-nj-eXL" secondAttribute="leading" id="GhY-Gp-qPL"/>
+                                            <constraint firstAttribute="height" constant="280" id="Njk-MT-lls"/>
+                                            <constraint firstAttribute="trailing" secondItem="cBV-T4-N7Z" secondAttribute="trailing" id="R9C-xa-SYK"/>
+                                            <constraint firstItem="cBV-T4-N7Z" firstAttribute="top" secondItem="zcc-nj-eXL" secondAttribute="top" id="Rcm-Ni-MhO"/>
+                                        </constraints>
+                                    </view>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Music Player" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6QC-dP-2Pe">
+                                        <rect key="frame" x="38" y="150" width="317" height="94.666666666666686"/>
+                                        <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="28"/>
+                                        <color key="textColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="0.88652505680000004" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="zcc-nj-eXL" firstAttribute="top" secondItem="6QC-dP-2Pe" secondAttribute="bottom" constant="12" id="FfW-D0-XiH"/>
+                                    <constraint firstItem="zcc-nj-eXL" firstAttribute="centerX" secondItem="lPf-su-ieM" secondAttribute="centerX" id="KRm-a2-gkp"/>
+                                    <constraint firstAttribute="trailing" secondItem="6QC-dP-2Pe" secondAttribute="trailing" constant="38" id="Qj3-1s-8Ny"/>
+                                    <constraint firstAttribute="bottom" secondItem="9D7-Pf-k3T" secondAttribute="bottom" id="aeL-wg-4zG"/>
+                                    <constraint firstItem="9D7-Pf-k3T" firstAttribute="top" secondItem="lPf-su-ieM" secondAttribute="top" id="cBd-r8-8ll"/>
+                                    <constraint firstAttribute="trailing" secondItem="9D7-Pf-k3T" secondAttribute="trailing" id="itS-cP-W0M"/>
+                                    <constraint firstItem="zcc-nj-eXL" firstAttribute="centerY" secondItem="lPf-su-ieM" secondAttribute="centerY" id="moL-4y-TXs"/>
+                                    <constraint firstItem="6QC-dP-2Pe" firstAttribute="leading" secondItem="lPf-su-ieM" secondAttribute="leading" constant="38" id="oEM-va-Rjk"/>
+                                    <constraint firstItem="9D7-Pf-k3T" firstAttribute="leading" secondItem="lPf-su-ieM" secondAttribute="leading" id="vhy-7e-dsz"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="lPf-su-ieM" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="28T-hU-X2w"/>
+                            <constraint firstAttribute="bottom" secondItem="lPf-su-ieM" secondAttribute="bottom" id="YdC-gA-5Mj"/>
+                            <constraint firstItem="lPf-su-ieM" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="cZo-jU-Ht7"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lPf-su-ieM" secondAttribute="trailing" id="enJ-4n-4Bb"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="lightBGimg" width="626" height="313"/>
+        <image name="musicImg" width="275" height="183"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
